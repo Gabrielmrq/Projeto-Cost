@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>
 </p>
 &nbsp;&nbsp;&nbsp;
 
@@ -12,7 +12,7 @@
 
 This project was developed with the following technologies:
 
-- [ReactJS]
+- ReactJS
 </div>
 
 <div id="project"></div>
