@@ -1,0 +1,26 @@
+.project_container {
+    width: 100%;
+    padding: 2em;
+}
+
+
+.project_container p {
+    color: #7b7b7b;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+
+@media screen and (max-width: 767px) /* Smartphone */ {
+    .project_container {
+        padding: 1em;
+    }
+    
+    .title_container {
+        margin-top: 1em;
+    }
+}
